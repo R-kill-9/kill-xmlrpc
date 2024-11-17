@@ -59,9 +59,7 @@ If no valid credentials are found:
 - If you encounter issues with encoding or wordlist formats, ensure the wordlists are UTF-8 encoded.
 - This script is intended for educational purposes and should be used responsibly and legally.
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 
 
